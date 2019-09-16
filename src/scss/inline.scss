@@ -1,0 +1,38 @@
+/* =============================================================================
+   INLINE (inline.scss)
+   ========================================================================== */
+/**
+ * This CSS code should be inlined.
+ */
+/* Settings
+   ========================================================================== */
+@import './node_modules/@slicejack/bojler/scss/settings/core';
+/* Generic
+   ========================================================================== */
+@import './node_modules/@slicejack/bojler/scss/generic/reset';
+/* Elements
+   ========================================================================== */
+@import './node_modules/@slicejack/bojler/scss/elements/headings';
+@import './node_modules/@slicejack/bojler/scss/elements/links';
+@import './node_modules/@slicejack/bojler/scss/elements/lists';
+@import './node_modules/@slicejack/bojler/scss/elements/page';
+@import './node_modules/@slicejack/bojler/scss/elements/table';
+/* Objects
+   ========================================================================== */
+@import './node_modules/@slicejack/bojler/scss/objects/grid';
+@import './node_modules/@slicejack/bojler/scss/objects/list-reset';
+@import './node_modules/@slicejack/bojler/scss/objects/main-wrapper';
+@import './node_modules/@slicejack/bojler/scss/objects/preheader';
+/* Components
+   ========================================================================== */
+@import './node_modules/@slicejack/bojler/scss/components/buttons';
+@import './node_modules/@slicejack/bojler/scss/components/hero';
+/* Utilities
+   ========================================================================== */
+@import './node_modules/@slicejack/bojler/scss/utilities/backgrounds';
+@import './node_modules/@slicejack/bojler/scss/utilities/borders';
+@import './node_modules/@slicejack/bojler/scss/utilities/display';
+@import './node_modules/@slicejack/bojler/scss/utilities/headings';
+@import './node_modules/@slicejack/bojler/scss/utilities/images';
+@import './node_modules/@slicejack/bojler/scss/utilities/spacing';
+@import './node_modules/@slicejack/bojler/scss/utilities/typography';

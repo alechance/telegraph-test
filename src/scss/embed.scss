@@ -1,0 +1,24 @@
+/* =============================================================================
+   EMBED (embed.scss)
+   ========================================================================== */
+/**
+ * This CSS should be embedded in the `<head>` of your email template.
+ */
+/* Settings
+   ========================================================================== */
+@import './node_modules/@slicejack/bojler/scss/settings/core';
+/* Generic
+   ========================================================================== */
+@import './node_modules/@slicejack/bojler/scss/embed/generic/reset';
+/* Objects
+   ========================================================================== */
+@import './node_modules/@slicejack/bojler/scss/embed/objects/grid';
+@import './node_modules/@slicejack/bojler/scss/embed/objects/main-wrapper';
+/* Components
+   ========================================================================== */
+@import './node_modules/@slicejack/bojler/scss/embed/components/hero';
+/* Utilities
+   ========================================================================== */
+@import './node_modules/@slicejack/bojler/scss/embed/utilities/display';
+@import './node_modules/@slicejack/bojler/scss/embed/utilities/spacing';
+@import './node_modules/@slicejack/bojler/scss/embed/utilities/typography';
